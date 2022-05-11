@@ -5,12 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: Ricar
     url: https://www.ricar.cl
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Admin Sublimonkeys 
+    url: https://admin.sublimonkeys.cl
+  - name: QA sublimonkeys
+    url: https://qa.sublimonkeys.cl
+  - name: Api Sublimonkeys
+    url: https://api.sublimonkeys.cl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
